@@ -1,13 +1,15 @@
-import React,{Component} from 'react';
-
-
+import React from 'react';
 
 const Header = () =>{
-      return (              
-                <h1>Nombre del Sitio</h1>  
-        )
+    return(
+        <header>
 
-    
+            <h1>Tienda Vitual</h1>
+        </header>
+
+
+    )
+
 
 }
 
